@@ -3,11 +3,11 @@
 <br>
 
 <h2>1. Tất cả công việc.</h2>
-<img src="![274228371_692693498404057_3092723967740994600_n](https://user-images.githubusercontent.com/81966125/155528406-01d08f70-8a11-48a0-b4a5-2f4d7e9fedf2.png)" alt="..." width="250" />
+<img src="https://scontent.fsgn5-12.fna.fbcdn.net/v/t1.15752-9/274228371_692693498404057_3092723967740994600_n.png?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=_Qzcpztz3cUAX-D5o5l&_nc_ht=scontent.fsgn5-12.fna&oh=03_AVJHHGR2yAg-frGTQqgVbOV1NKkDkf-7RMmFbbQEUFD9hw&oe=623CD78A" alt="..." width="250" />
 
 <h2>2.Những việc chưa hoàn thanh.</h2>
-<img src="![273907777_1358876734630439_4527772128784671126_n](https://user-images.githubusercontent.com/81966125/155528574-e5768c32-041e-45f9-98e9-c77a014da3aa.png)" alt="..." width="250" />
+<img src="https://scontent.fsgn5-15.fna.fbcdn.net/v/t1.15752-9/273907777_1358876734630439_4527772128784671126_n.png?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=lUUvIfQ0_QkAX-wJZxz&_nc_ht=scontent.fsgn5-15.fna&oh=03_AVJ_g0dRTsZoLYnGq-MFJIiAigB7pMySDzwspDAhw9A9Tw&oe=623B37B4" alt="..." width="250" />
 
 <h2>3.Những việc đã hoàn thành.</h2>
-<img src="![273562369_4583322511776036_2520783768458594588_n](https://user-images.githubusercontent.com/81966125/155528466-b72e8e9d-4358-41da-9d9d-b6687aa51a12.png)" alt="..." width="250" />
+<img src="https://scontent.fsgn5-4.fna.fbcdn.net/v/t1.15752-9/273562369_4583322511776036_2520783768458594588_n.png?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_ohc=zUGkWw_4WzwAX9lMR0Q&_nc_ht=scontent.fsgn5-4.fna&oh=03_AVLM_MAG8PoiQb7t2apNQ75573kXTXAKQIFw1qZeb1fFuA&oe=623C73E2" alt="..." width="250" />
 
