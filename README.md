@@ -11,3 +11,8 @@
 <h2>3.Những việc đã hoàn thành.</h2>
 <img src="https://scontent.fsgn5-4.fna.fbcdn.net/v/t1.15752-9/273562369_4583322511776036_2520783768458594588_n.png?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_ohc=zUGkWw_4WzwAX9lMR0Q&_nc_ht=scontent.fsgn5-4.fna&oh=03_AVLM_MAG8PoiQb7t2apNQ75573kXTXAKQIFw1qZeb1fFuA&oe=623C73E2" alt="..." width="1000" />
 
+<h2>4.Chức năng sửa đổi công việc.</h2>
+<img src="https://scontent.fsgn5-10.fna.fbcdn.net/v/t1.15752-9/273808430_1350233308776106_7378576652749145732_n.png?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=1Ulyz1L5zagAX8W3Czd&_nc_ht=scontent.fsgn5-10.fna&oh=03_AVKwj0FV3vrDGiLcuvD4FgCV3RGtVxQMOv0Gt9D1RFqHKQ&oe=623D8A69" alt="..." width="1000" />
+
+
+
